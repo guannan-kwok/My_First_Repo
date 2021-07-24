@@ -1,0 +1,36 @@
+.Home{
+    display: inline-block;
+    padding:20px 35px;
+    background-color: white;
+}
+
+.Chat{
+    display: inline-block;
+    padding:20px 35px;
+    background-color: white;
+}
+
+.Habitat{
+    display: inline-block;
+    padding:20px 35px;
+    background-color: white;
+}
+
+nav{
+    background-color: lightblue;
+}
+
+.left{
+    width: 20%;
+    float: left;
+    text-align: center;
+}
+
+.dog{
+    width: 20%;
+}
+
+.right{
+    float: left;
+    background-color:turquoise;
+}
